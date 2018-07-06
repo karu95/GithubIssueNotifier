@@ -17,5 +17,6 @@ Primary objective of this project is to notify github repository owner with an S
 3. Set the parameters of the ballerina.conf as defined in the ballerina.conf
     *# Note - xAuthKey is not an essential parameter. You can keep it empty.
 4. Then run the command following command in project directory.
+
           ballerina run GithubIssueNotifier
 5. Now the GithubIssueNotifier should be up and running.
