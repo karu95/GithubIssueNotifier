@@ -15,6 +15,7 @@ Primary objective of this project is to notify github repository owner with an S
 1. Download the github repository.
 2. Rename the sample_ballerina.conf file to ballerina.conf
 3. Set the parameters of the ballerina.conf as defined in the ballerina.conf {See below note for twilio and github API                    configuration.}
+
     *# Note - xAuthKey is not an essential parameter. You can keep it empty.
 4. Then run the command following command in project directory.
 
@@ -24,8 +25,11 @@ Primary objective of this project is to notify github repository owner with an S
 
 # Note - Twilio and Github access token retrieval.
 For twilio - 
+
     Visit Twilio and create a Twilio Account.
+    
     Obtain the following credentials from the Twilio dashboard:
+    
         Account SId
         Auth Token
 
