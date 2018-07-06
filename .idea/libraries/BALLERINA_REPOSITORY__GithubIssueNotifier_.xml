@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="BALLERINA_REPOSITORY &lt;GithubIssueNotifier&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/keerthu" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/keerthu" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
